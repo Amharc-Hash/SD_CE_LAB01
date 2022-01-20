@@ -1,5 +1,7 @@
 body{
     margin: 0;
-    background-color: aquamarine;
+    background-color: #7fffd4;
     text-align: centers;
+    image-rendering: auto;
+    font-size: large;
 }
